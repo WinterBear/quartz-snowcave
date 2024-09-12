@@ -4,8 +4,8 @@
 
 Features:
 
-- [Geodes]
-- [Artifacts]
+- [[Geodes]]
+- [[Artifacts]]
 
 Useful commands:
 - /rtp - teleport to a random location
