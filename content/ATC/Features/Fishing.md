@@ -1,4 +1,4 @@
-> !tip Visit the docks at the bottom of spawn for more info.
+> [!tip] Visit the docks at the bottom of spawn for more info.
 
 ![[Pasted image 20240913142020.png]]
 
@@ -79,7 +79,7 @@ You can earn fishing tokens for completing the catch of the day (`/catchoftheday
 | ![[master_fishing_bobber-export.png\|50]]      | Master Bobber      | 12    | Increases Fishing Power by 1                                     |
 | ![[grandmaster_fishing_bobber-export.png\|50]] | Grandmaster Bobber | 20    | Increases Fishing Power by 2 - Does not stack with Master Bobber |
 | ![[angler_hat.gif\|50]]                        | Angler Hat         | 10    | Increases Fishing Power by 1                                     |
-> !note if you lose your fish bag, you can purchase another from the Fishing Token shop
+> [!note] if you lose your fish bag, you can purchase another from the Fishing Token shop
 
 
 ## Fishing Power
