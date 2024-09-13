@@ -6,6 +6,15 @@ Features:
 
 - [[Geodes]]
 - [[Artifacts]]
+- [[Fishing]]
+- [[Shops and Economy]]
+- [[Levelling Up]]
+- [[Tokens]]
+- [[Guilds and Land Claiming]]
+- [[Graves]]
+- [[Skins]]
+- [[Materials]]
+- [[Events]]
 
 Useful commands:
 - /rtp - teleport to a random location
