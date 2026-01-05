@@ -2,30 +2,7 @@
 > [!tip] Join our [Discord](https://discord.gg/vYssjbjP)! 
 
 
-Features:
-
-- [[Geodes]]
-- [[Artifacts]]
-- [[Fishing]]
-- [[Shops and Economy]]
-- [[Levelling Up]]
-- [[Tokens]]
-- [[Guilds and Land Claiming]]
-- [[Graves]]
-- [[Skins]]
-- [[Materials]]
-- [[Events]]
-
-Useful commands:
-- `/rtp` - teleport to a random location
-- `/wallet`  - view your money and tokens
-- `/dust` - view your stardust rank
-- `/g` - access guild commands
-- `/lock` & `/unlock` - lock doors and containers
-- `/trust` & `/untrust` - gives a player access to all your locked things
-
-
-See the full ⁠[[Command List]] for more
+View our [[Blog]]
 
 
 Please take note of the server [[Rules]]
