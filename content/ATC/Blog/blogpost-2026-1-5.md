@@ -57,6 +57,8 @@ More detail on this feature can be found at the Bank at server spawn.
 
 We've also added a Tool Trims datapack allowing you to customise the look of your tools and weapons in a similar way to Armor Trims. You can find the new trim items in regular loot chests. You can also rename your items in an anvil using color codes e.g. "&bMy Tool" or "<#d98be8>My Tool".
 
+![alt text](image.png)
+
 Another new feature is the addition of various Socket Jewels. These add additional bonuses to your tools such as vein mining on pickaxes, additional damage for swords, or chopping down whole trees for axes and more. Socket Jewels are rare, and getting the best ones will require exploring the most difficult areas of the game. We'll put another post up around the different ways you can acquire them soon. You'll also need to find a base tool with a socket slot on it to be able to apply a socket. These spawn in loot chests and vaults in all worlds.
 
 ![alt text](image-4.png)
