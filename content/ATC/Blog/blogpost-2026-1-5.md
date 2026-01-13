@@ -1,7 +1,7 @@
 ---
 title: ATC is Changing
 draft: false
-date: 2026-01-05
+date: 2026-01-13
 ---
 
 Hi all, it's a brand new year and we've got some news to share about the future of ATC!
@@ -18,7 +18,7 @@ However, we don't just want to shut the server down with nothing to replace it, 
 
 So what can you expect from the new server?
 
-First off, we've removed number of our traditional plugins and features - there is no McMMO, no geodes, no guilds or towns, and no `/home` or `/tpa`. Instead you'll be getting a vanilla-like minecraft experience that doesn't provide the usual comforts that eliminate a lot of gameplay. This not only helps to make the gameplay richer, but also massively reduces the overhead that should hopefully let us bump the server to new versions quickly when they come out, as Mojang releases new versions much more regularly than they used to. The server will be on 1.21.11 to start with and we plan to continue upgrading it to new versions as they come out. 
+First off, we've removed a number of our traditional plugins and features - there is no McMMO, no geodes, no guilds or towns, and no `/home` or `/tpa`. Instead you'll be getting a vanilla-like minecraft experience that doesn't provide the usual comforts that eliminate a lot of gameplay. This not only helps to make the gameplay richer, but also massively reduces the overhead that should hopefully let us bump the server to new versions quickly when they come out, as Mojang releases new versions much more regularly than they used to. The server will be on 1.21.11 to start with and we plan to continue upgrading it to new versions as they come out. 
 
 Our creative mode server will remain accessible with the same world and we plan to have that upgraded to a newer minecraft version also.
 
@@ -29,13 +29,13 @@ The new server uses the Terralith datapack to create a much more vibrant and det
 
 #### Death
 
-Replacing the old Graves system we've added a custom death mechanic that will cause you to drop only the items in your main inventory. This means when you die you will keep your armor, hotbar, and offhand items, but will have to go back to collect any other items. We've also enabled instant respawn.
+Replacing the old Graves system we've added a custom death mechanic that will cause you to drop only the items in your main inventory and your experience. This means when you die you will keep your armor, hotbar, and offhand items, but will have to go back to collect any other items and experience. We've also enabled instant respawn.
 
 #### Getting Around
 
 Now you can't just teleport home or to each other directly, you'll be relying on more traditional modes of transportation such as minecarts, horses, or some less traditional ones (happy ghasts).
 
-We have added a new waystone block which can be crafted by players, but the recipe will be a little expensive, and players will have to have discovered a waystone before they can teleport to it. You will recieve 1 free waystone from the spawn per player.
+We have added a new waystone block which can be crafted by players, but the recipe will be a little expensive, and players will have to have discovered a waystone before they can teleport to it. You can get a cheap waystone for a diamond from the spawn, one per player.
 
 ![alt text](image-2.png)
 
@@ -45,7 +45,7 @@ You will be able to use `/spawn` to get back to spawn at any time, and can use t
 
 We've added a new shop plugin that does not rely on virtual currency and instead uses item bartering. You can find a tutorial on how to make those at the new server spawn. 
 
-For convenience we've added a new "Coin" item, that can be exchanged for nether stars at spawn. Coins come in 3 denominations, worth 1 nether star, 1/64th of a nether star and 1/4096th of a nether star. You will be able to split and combine coins between the denominations as you like using commands. e.g. 1 64 "Coin" is worth 1 "Coin Pile", and 64 "Coin Pile" is worth 1 "Coin Bag". Coin Bags can be exchanged for nether stars and vice versa at the spawn bank.
+For convenience we've added a new "Coin" item, that can be exchanged for nether stars at spawn. Coins come in 3 denominations, worth 1 nether star, 1/64th of a nether star and 1/4096th of a nether star. You will be able to split and combine coins between the denominations as you like using commands. e.g. 64 "Copper Dregs" are worth 1 "Silver Earl", and 64 "Silver Earl" is worth 1 "Golden Caddy". Golden Caddys can be exchanged for nether stars and vice versa at the spawn bank.
 
 ![alt text](image-3.png)
 
@@ -57,7 +57,7 @@ More detail on this feature can be found at the Bank at server spawn.
 
 We've also added a Tool Trims datapack allowing you to customise the look of your tools and weapons in a similar way to Armor Trims. You can find the new trim items in regular loot chests. You can also rename your items in an anvil using color codes e.g. "&bMy Tool" or "<#d98be8>My Tool".
 
-Another new feature is the addition of various Socket Jewels. These add additional bonuses to your tools such as vein mining on pickaxes, additional damage for swords, or chopping down whole trees for axes and more. Socket Jewels are rare, and getting the best ones will require exploring the most difficult areas of the game. We'll put another post up around the different ways you can acquire them soon.
+Another new feature is the addition of various Socket Jewels. These add additional bonuses to your tools such as vein mining on pickaxes, additional damage for swords, or chopping down whole trees for axes and more. Socket Jewels are rare, and getting the best ones will require exploring the most difficult areas of the game. We'll put another post up around the different ways you can acquire them soon. You'll also need to find a base tool with a socket slot on it to be able to apply a socket. These spawn in loot chests and vaults in all worlds.
 
 ![alt text](image-4.png)
 
@@ -65,7 +65,7 @@ Another new feature is the addition of various Socket Jewels. These add addition
 
 Accessing the end will be more difficult than usual, as we have changed the recipe for ender eyes to require more materials. In addition to the ender pearl and blaze powder, the recipe calls for a wind charge, a prismarine shard and an echo shard, requiring you to explore additional structures before you can access it. The Ender Dragon has also been buffed to make it more of a challenge and will drop a Dragon Egg every time it is defeated.
 
-Once you get past the ender dragon, we've made a small adjustment to the End City structures - the usual Item Frame containing an Elytra is now replaced with an Ominous Vault that will require an Ominous Trial Key to open. This allows for each player that discovers a city to get access to their own Elytra rather than them being only available to the first person who discovers them.
+Once you get past the ender dragon, we've made a small adjustment to the End City structures - the usual Item Frame containing an Elytra is now replaced with an Ominous Vault that will require an Ominous Trial Key to open. This allows for each player that discovers a city to get access to their own Elytra rather than them being only available to the first person who discovers them. Make sure to stock up on Ominous Vault keys before you go exploring the end!
 
 ![alt text](image-5.png)
 
