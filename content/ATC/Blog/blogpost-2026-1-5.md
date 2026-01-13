@@ -47,7 +47,7 @@ We've added a new shop plugin that does not rely on virtual currency and instead
 
 For convenience we've added a new "Coin" item, that can be exchanged for nether stars at spawn. Coins come in 3 denominations, worth 1 nether star, 1/64th of a nether star and 1/4096th of a nether star. You will be able to split and combine coins between the denominations as you like using commands. e.g. 64 "Copper Dregs" are worth 1 "Silver Earl", and 64 "Silver Earl" is worth 1 "Golden Caddy". Golden Caddys can be exchanged for nether stars and vice versa at the spawn bank.
 
-![alt text](image-3.png)
+![alt text](image-6.png)
 
 To kickstart the economy you will be able to acquire some coins in exchange for diamonds, but these will be limited and long term you will only be able to convert coins into nether stars and back.
 
