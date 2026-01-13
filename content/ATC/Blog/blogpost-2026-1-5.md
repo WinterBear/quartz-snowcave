@@ -14,7 +14,7 @@ However, we don't just want to shut the server down with nothing to replace it, 
 
 #### ATC Vanilla+
 
-![alt text](image.png)
+![alt text](image-3.png)
 
 So what can you expect from the new server?
 
