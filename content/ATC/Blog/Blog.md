@@ -3,4 +3,4 @@ title: Blog
 draft: false
 ---
 
-[[blogpost-2026-1-5]]
+[ATC Is Changing](blogpost-2026-1-5) (2026-01-13)
