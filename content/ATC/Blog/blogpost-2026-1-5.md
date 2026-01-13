@@ -72,3 +72,7 @@ Once you get past the ender dragon, we've made a small adjustment to the End Cit
 #### Voice Chat
 
 The server now supports the Simple Voice Chat mod, so anyone who has that mod installed will be able to chat in-game to each other. Simple Voice Chat is a proximity based system but you will be able to create private groups that can be used to chat long distance.
+
+### When?
+
+The new ATC server will open on Saturday the 17th of January! The server will be unavailable between 10:00am and 2:00pm GMT while we make changes, after which you'll be able to join and play the new Vanilla+ server! The old survival server will still be accessible for a week after this with a farewell night on Friday the 23rd, when we'll shut the old server down.
